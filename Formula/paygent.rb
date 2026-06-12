@@ -1,9 +1,9 @@
 class Paygent < Formula
   desc "Paygent wallet CLI / daemon / MCP server"
   homepage "https://paygent.net"
-  url "https://github.com/paygent-net/cli/releases/download/v0.0.0/paygent-0.0.0-universal-apple-darwin.tar.gz"
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  url "https://github.com/paygent-net/cli/releases/download/v0.1.0/paygent-0.1.0-universal-apple-darwin.tar.gz"
+  version "0.1.0"
+  sha256 "4315767c3545967fe197122459f5ff172943aa4165ac7855a6896e4ae57f7a2c"
   license "Apache-2.0"
 
   def install
